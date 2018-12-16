@@ -16,6 +16,7 @@ public class HelloJenkins {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Jenkins -- Swathi");
 		System.out.println("TestGIT");
+		System.out.println("Commit3");
 	}
 
 }
